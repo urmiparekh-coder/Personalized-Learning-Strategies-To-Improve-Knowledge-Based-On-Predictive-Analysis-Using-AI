@@ -1,0 +1,2 @@
+Completed a research dissertation investigating the application of artificial intelligence and predictive analytical modelling in personalised education systems. Developed a conceptual and technical framework to analyse learner behavioural data, forecast knowledge deficiencies, and prescribe individualised learning strategies — demonstrating advanced competency in machine learning, data analysis, and AI-driven system design.
+Tech & Concepts: Machine Learning · Predictive Analytics · Data Analysis · AI Modelling · EdTech
